@@ -1,4 +1,4 @@
-### Hidden in plainsight:
+ ### Hidden in plainsight:
 
 1. Downloaded the file using **wget https://challenge-files.picoctf.net/c_amiable_citadel/58f49cf585a3e6073ccd6a3ae03903dfd71567a2db9101645b428ac6820fb3cf/img.jpg**
    
@@ -31,6 +31,7 @@
 4. Noticed that the author cGljb0NURntwdXp6bDNkX20zdGFkYXRhX2YwdW5kIV9mOTQzMDBjNH0= in the file's metadata is a Base64 string, hinted at with the = at the end. Decoded it using **echo "cGljb0NURntwdXp6bDNkX20zdGFkYXRhX2YwdW5kIV9mOTQzMDBjNH0=" | base64 -d** to get the PicoCTF flag
 
 <img width="1179" height="508" alt="PicoCTF Forensics 2" src="https://github.com/user-attachments/assets/1e9ae067-c30b-4a7c-84ce-c4aab7fc30aa" />
+
 ***
 
 ### Flag in Flame:
