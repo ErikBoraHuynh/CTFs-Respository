@@ -2,18 +2,7 @@
 
 ## Purpose
 
-The goal of this repository is to:
-- 
-
 ## Areas of Focus
-
-This repository will cover a range of cybersecurity topics, including:
-
-| Category | Description |
-|-----------|-------------|
-| **** |  |
-
----
 
 ## Connect with Me
 
